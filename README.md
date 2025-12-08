@@ -7,7 +7,20 @@ Using this dataset, we randomly split the data into a train(80%)/test(20%) sets.
 
 ## Software and Tools
 
-** gonna insert once we have all the notebooks** 
+Python: Python 3.8+
+
+Notebook Environment: Jupyter Notebook 
+
+Operating Systems: compatible with Windows, macOS, and Linux
+
+Required Python Packages
+- pandas
+- numpy 
+- matplotlib
+- seaborn
+- scikit-learn 
+- xgboost 
+- PyTorch
 
 ## Repository Structure 
 ```bash
@@ -16,12 +29,15 @@ Using this dataset, we randomly split the data into a train(80%)/test(20%) sets.
 |    └───breast_cancer_trainset.csv
 | 
 └───Notebooks
+|    └───EDA.ipynb
 |    └───logistic_regression.ipynb
 |    └───svm.ipynb
 |    └───xgboost.ipynb
 |    └───neural_network.ipynb
 |
 └───Output
-|    └───testset_evaluation.ipynb
+|    └───nn_test_results.png
+|
+└───requirements.txt
 |
 └───final_report.pdf
