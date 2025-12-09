@@ -34,6 +34,7 @@ Required Python Packages
 |    └───svm.ipynb
 |    └───xgboost.ipynb
 |    └───neural_network.ipynb
+|    └───test_evaluation.ipynb
 |
 └───Output
 |    └───nn_test_results.png
