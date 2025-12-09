@@ -1,0 +1,1 @@
+{"learning_rate": 0.1, "batch_size": 64, "hidden_size1": 128, "hidden_size2": 64, "dropout_rate": 0.3, "num_epochs": 1, "avg_recall": 0.9882352941176471, "std_recall": 0.014408763192842226}
