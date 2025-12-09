@@ -37,8 +37,13 @@ Required Python Packages
 |    └───test_evaluation.ipynb
 |
 └───Output
+|    └───best_model.pth
+|    └───best_params.json
 |    └───nn_test_results.png
+|    └───scaler.pkl
+|    └───slide_deck.pdf
 |
 └───requirements.txt
 |
 └───final_report.pdf
+```
